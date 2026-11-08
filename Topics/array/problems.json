@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T06:46:32.930Z",
+  "updatedAt": "2026-11-08T06:46:42.660Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0704-binary-search/0704-binary-search.py",
           "sha": "ac9fbd674f4aae288a79bfd3a94102c28520c472",
           "lastSyncedAt": "2026-11-08T06:42:55.627Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1752",
+      "title": "Check if Array Is Sorted and Rotated",
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "problemName": "1752-check-if-array-is-sorted-and-rotated",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+      "folderPath": "1752-check-if-array-is-sorted-and-rotated/",
+      "readmePath": "1752-check-if-array-is-sorted-and-rotated/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "1752-check-if-array-is-sorted-and-rotated.py",
+          "path": "1752-check-if-array-is-sorted-and-rotated/1752-check-if-array-is-sorted-and-rotated.py",
+          "sha": "84ff60925915300e75566dd6a87b3d945265ca75",
+          "lastSyncedAt": "2026-11-08T06:46:42.660Z"
         }
       ]
     },
