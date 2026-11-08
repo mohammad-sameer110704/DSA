@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T06:48:30.972Z",
+  "updatedAt": "2026-11-08T08:06:07.202Z",
   "problems": [
     {
       "frontendId": "1",
@@ -284,6 +284,26 @@
           "path": "0485-max-consecutive-ones/0485-max-consecutive-ones.py",
           "sha": "a0c682a4109c00986848bbd00755ba27a8cecc17",
           "lastSyncedAt": "2026-11-08T06:45:53.757Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "560",
+      "title": "Subarray Sum Equals K",
+      "slug": "subarray-sum-equals-k",
+      "problemName": "0560-subarray-sum-equals-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "folderPath": "0560-subarray-sum-equals-k/",
+      "readmePath": "0560-subarray-sum-equals-k/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0560-subarray-sum-equals-k.py",
+          "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
+          "sha": "f9ca9db663cb1455da3d588375b6d50659f8625e",
+          "lastSyncedAt": "2026-11-08T08:06:07.202Z"
         }
       ]
     },
