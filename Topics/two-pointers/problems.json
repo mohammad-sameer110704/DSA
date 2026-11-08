@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-08T06:43:58.178Z",
+  "updatedAt": "2026-11-08T06:44:01.738Z",
   "problems": [
     {
       "frontendId": "11",
@@ -44,6 +44,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "22b9230516b63f3e19b4f39edd6400165cd3b6e4",
           "lastSyncedAt": "2026-11-08T06:43:31.269Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "problemName": "0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+      "folderPath": "0028-find-the-index-of-the-first-occurrence-in-a-string/",
+      "readmePath": "0028-find-the-index-of-the-first-occurrence-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.py",
+          "sha": "ca1d18cd2f41ccb588f603bb1ea766a7cf980afb",
+          "lastSyncedAt": "2026-11-08T06:44:01.738Z"
         }
       ]
     },
