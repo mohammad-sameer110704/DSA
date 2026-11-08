@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-08T06:43:24.927Z",
+  "updatedAt": "2026-11-08T06:43:31.269Z",
   "problems": [
+    {
+      "frontendId": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "problemName": "0015-3sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/3sum/",
+      "folderPath": "0015-3sum/",
+      "readmePath": "0015-3sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0015-3sum.py",
+          "path": "0015-3sum/0015-3sum.py",
+          "sha": "22b9230516b63f3e19b4f39edd6400165cd3b6e4",
+          "lastSyncedAt": "2026-11-08T06:43:31.269Z"
+        }
+      ]
+    },
     {
       "frontendId": "344",
       "title": "Reverse String",
