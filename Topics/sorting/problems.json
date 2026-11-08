@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-08T06:43:31.269Z",
+  "updatedAt": "2026-11-08T06:43:50.028Z",
   "problems": [
     {
       "frontendId": "15",
@@ -24,6 +24,26 @@
           "path": "0015-3sum/0015-3sum.py",
           "sha": "22b9230516b63f3e19b4f39edd6400165cd3b6e4",
           "lastSyncedAt": "2026-11-08T06:43:31.269Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "63d4d8c0be6eab92aa43bb4cecc020a53ecce691",
+          "lastSyncedAt": "2026-11-08T06:43:50.028Z"
         }
       ]
     }
