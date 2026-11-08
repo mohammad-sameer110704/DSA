@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T08:06:07.202Z",
+  "updatedAt": "2026-11-08T08:06:35.879Z",
   "problems": [
     {
       "frontendId": "1",
@@ -123,7 +123,7 @@
           "filename": "0560-subarray-sum-equals-k.py",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.py",
           "sha": "f9ca9db663cb1455da3d588375b6d50659f8625e",
-          "lastSyncedAt": "2026-11-08T08:06:07.202Z"
+          "lastSyncedAt": "2026-11-08T08:06:35.879Z"
         }
       ]
     }
