@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T06:43:50.028Z",
+  "updatedAt": "2026-11-08T06:44:58.682Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "295dbb0edb8debe16178307bdb38fde9c34acf04",
           "lastSyncedAt": "2026-11-08T06:43:15.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "169",
+      "title": "Majority Element",
+      "slug": "majority-element",
+      "problemName": "0169-majority-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/majority-element/",
+      "folderPath": "0169-majority-element/",
+      "readmePath": "0169-majority-element/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0169-majority-element.py",
+          "path": "0169-majority-element/0169-majority-element.py",
+          "sha": "7c96e9e860e9511dfa57f0760adf933feb73dd47",
+          "lastSyncedAt": "2026-11-08T06:44:58.682Z"
         }
       ]
     },
