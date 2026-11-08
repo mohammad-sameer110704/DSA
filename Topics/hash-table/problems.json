@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T06:43:45.929Z",
+  "updatedAt": "2026-11-08T06:43:50.028Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "295dbb0edb8debe16178307bdb38fde9c34acf04",
           "lastSyncedAt": "2026-11-08T06:43:15.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0242-valid-anagram.py",
+          "path": "0242-valid-anagram/0242-valid-anagram.py",
+          "sha": "63d4d8c0be6eab92aa43bb4cecc020a53ecce691",
+          "lastSyncedAt": "2026-11-08T06:43:50.028Z"
         }
       ]
     }
