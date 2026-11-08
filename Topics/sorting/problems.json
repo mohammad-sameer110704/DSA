@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-08T06:44:58.682Z",
+  "updatedAt": "2026-11-08T06:45:58.732Z",
   "problems": [
     {
       "frontendId": "15",
@@ -64,6 +64,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.py",
           "sha": "63d4d8c0be6eab92aa43bb4cecc020a53ecce691",
           "lastSyncedAt": "2026-11-08T06:43:50.028Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0268-missing-number.py",
+          "path": "0268-missing-number/0268-missing-number.py",
+          "sha": "d2218744969b400de21a4af3b22e696e442cfc3e",
+          "lastSyncedAt": "2026-11-08T06:45:58.732Z"
         }
       ]
     }
