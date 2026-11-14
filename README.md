@@ -71,3 +71,19 @@ Contains topicwise list of solved problems.
 | [Two Pointers](Topics/two-pointers/) | 10 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mohammad-sameer110704/DSA/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mohammad-sameer110704/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/mohammad-sameer110704/DSA/tree/master/0217-contains-duplicate) |
+<!---LeetCode Topics End-->
