@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T13:10:00.370Z",
+  "updatedAt": "2026-11-17T13:10:54.904Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
           "sha": "295dbb0edb8debe16178307bdb38fde9c34acf04",
           "lastSyncedAt": "2026-11-08T06:48:04.271Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "12",
+      "title": "Integer to Roman",
+      "slug": "integer-to-roman",
+      "problemName": "0012-integer-to-roman",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/integer-to-roman/",
+      "folderPath": "0012-integer-to-roman/",
+      "readmePath": "0012-integer-to-roman/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0012-integer-to-roman.py",
+          "path": "0012-integer-to-roman/0012-integer-to-roman.py",
+          "sha": "8e8baef27f422fabed0be283291a9e4a629f58f4",
+          "lastSyncedAt": "2026-11-17T13:10:54.904Z"
         }
       ]
     },
