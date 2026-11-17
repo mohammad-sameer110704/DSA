@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 9 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
