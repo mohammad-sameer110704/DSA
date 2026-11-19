@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-17T13:11:06.691Z",
+  "updatedAt": "2026-11-19T14:24:49.109Z",
   "problems": [
     {
       "frontendId": "7",
@@ -84,6 +84,26 @@
           "path": "0189-rotate-array/0189-rotate-array.py",
           "sha": "9156b75d37d55061a5337ac684888ab7d867bb33",
           "lastSyncedAt": "2026-11-08T06:46:32.930Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0204-count-primes.py",
+          "path": "0204-count-primes/0204-count-primes.py",
+          "sha": "f9941f592087797f4d6c01106f5bcc795f567c76",
+          "lastSyncedAt": "2026-11-19T14:24:49.109Z"
         }
       ]
     },
